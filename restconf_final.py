@@ -117,7 +117,6 @@ def enable():
         print('Error. Status Code: {}'.format(resp.status_code))
 
 
-
 def disable():    
     check_url = api_url + "/ietf-interfaces:interfaces/interface=Loopback65070131"
     check_resp = requests.get(
