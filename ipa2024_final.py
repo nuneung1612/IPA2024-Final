@@ -22,8 +22,8 @@ ACCESS_TOKEN = os.environ.get("TOKEN")
 
 # Defines a variable that will hold the roomId
 roomIdToGetMessages = (
-    # "Y2lzY29zcGFyazovL3VzL1JPT00vNTFmNTJiMjAtNWQwYi0xMWVmLWE5YTAtNzlkNTQ0ZjRkNGZi"
-    "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1JPT00vOTcwNGNkMjAtNWU5Zi0xMWVmLTg3YjEtOGRkZmM0ZWE5MjZm"
+    "Y2lzY29zcGFyazovL3VzL1JPT00vNTFmNTJiMjAtNWQwYi0xMWVmLWE5YTAtNzlkNTQ0ZjRkNGZi"
+   # "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1JPT00vOTcwNGNkMjAtNWU5Zi0xMWVmLTg3YjEtOGRkZmM0ZWE5MjZm"
 )
 
 while True:
